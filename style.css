@@ -1,0 +1,22 @@
+img {
+  width: 150px;
+  height: 150px;
+}
+body {
+  background-color: #7bcaea;
+}
+h1,h3,h5 {
+  color: #6c146c;
+  font-family:'Courier New', Courier, monospace;
+}
+
+h2{
+  color: crimson;
+  font-family:'Courier New', Courier, monospace;
+}
+
+p {
+  color: black;
+  font-family: 'Courier New', Courier, monospace;
+  
+}
